@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Just a Tip Calculator</string>
+    <string name ="bill_hint">Bill Amount</string>
+    <string name = "generosity_title">Generosity</string>
+    <string name = "quality_title">Quality of Service</string>
+    <string name = "bill_title">Total Bill</string>
+    <string name = "tip_title">Tip</string>
+    <string name = "percent_title">Your statistically determined tip percentage</string>
+    <string name = "button_text">Calculate</string>
+    <string name = "default_tip">$0.00</string>
+    <string name = "gen_text_01">Ebeneezer Scrooge</string>
+    <string name = "gen_text_02">Violet Beauregarde</string>
+    <string name = "gen_text_03">College students</string>
+    <string name = "gen_text_04">The mean lunch lady</string>
+    <string name = "gen_text_05">My parents</string>
+    <string name = "gen_text_06">The nice lunch lady</string>
+    <string name = "gen_text_07">The guy with a Mustang</string>
+    <string name = "gen_text_08">John D. and Catherine T. MacArthur</string>
+    <string name = "gen_text_09">Bill Gates</string>
+    <string name = "gen_text_10">Mansa Musa</string>
+    <string name = "qual_text_01">Exceptional</string>
+    <string name = "qual_text_02">Great</string>
+    <string name = "qual_text_03">Good</string>
+    <string name = "qual_text_04">Standard</string>
+    <string name = "qual_text_05">Bad</string>
+    <string name = "qual_text_06">Terrible</string>
+    <string name = "error_message">Invalid bill amount.</string>
+</resources>
